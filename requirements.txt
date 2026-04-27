@@ -1,0 +1,7 @@
+numpy
+pandas
+datetime
+yfinance
+fredapi
+scipy
+matplotlib
