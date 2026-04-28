@@ -19,4 +19,5 @@ This project features the following concepts:
 
 5. **Capital Market Line (CML)**
    * It shows the risk/return profiles of portfolios that optimally combine a risk-free asset and the market portfolio
-   
+
+<img width="696" height="523" alt="image" src="https://github.com/user-attachments/assets/14fecea7-df12-46d9-a706-f80718ce825d" />
